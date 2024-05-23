@@ -61,7 +61,7 @@ class ImageCropper:
                     #"eye",
                     #"left eye (2 splits)",
                     #"right eye (2 splits)",
-                    "frontal face (extended)",
+                    #"frontal face (extended)",
                     #"frontal cat face",
                     #"frontal face (alternate 2)",
                     #"frontal face (alternate tree)",
