@@ -1,0 +1,15 @@
+
+# Ignore anything
+*
+
+# Except '.gitignore'
+!.gitignore
+
+# Except 'README.md'
+!README.md
+
+# Except '*.py'
+!*.py
+
+# End-of-file
+
