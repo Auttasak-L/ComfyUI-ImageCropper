@@ -8,6 +8,9 @@
 # Except 'README.md'
 !README.md
 
+# Except 'classifier'
+!classifiers/*.xml
+
 # Except '*.py'
 !*.py
 
